@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # heroku-integrated-firefox-geckodriver
 
 [![Build Status](https://travis-ci.org/pyronlaboratory/heroku-integrated-firefox-geckodriver.svg?branch=master)](https://travis-ci.org/pyronlaboratory/heroku-integrated-firefox-geckodriver)
@@ -57,3 +58,6 @@ FIREFOX_BIN: '/app/vendor/firefox/firefox'
 Go ahead and scrape the universe. Drop a star if you like this small project!
 
 <a href="https://ko-fi.com/F1F1VEXA" target="_blank"><img src="ko-fi.png" alt="Buy me a Ko-fi, will ya?!" width="200"/></a>
+=======
+# integrated-firefox-geckodriver
+>>>>>>> eeedd66b95523a1be5fb7261cc9717579c4cc12e
